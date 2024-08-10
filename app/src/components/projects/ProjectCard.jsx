@@ -6,7 +6,6 @@ import LinkIcon from '@mui/icons-material/Link';
 import GitHubIcon from '@mui/icons-material/GitHub';
 
 const ProjectCard = ({item}) => {
-    console.log({item})
   return (
     <>
         <Box sx={{backgroundColor: item?.color}} className="p-2 shadow-2xl m-4 rounded-2xl" >

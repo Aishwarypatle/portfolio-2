@@ -36,7 +36,6 @@ import ecom from '../images/ecom.png'
 import notes from '../images/notes.png'
 import crm from '../images/crm.png'
 
-console.log(spotify);
 
 export {
     spotify,crm,notes,ecom,

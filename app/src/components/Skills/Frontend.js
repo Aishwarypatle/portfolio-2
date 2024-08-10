@@ -4,7 +4,6 @@ import React from 'react'
 import { frontendImages } from '../../constant/constant'
 
 const Frontend = () => {
-  console.log(frontendImages)
   return (
     <>
       <Card className='shadow-none'>

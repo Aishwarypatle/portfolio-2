@@ -9,7 +9,6 @@ const NavigationCard = () => {
     const [ selectedMenu , setSelectedMenu ] = useState("home")
     const handleNavigationChange = (e , val) => {
         setSelectedMenu(e)
-        console.log({e})
     }
   return (
    <>
